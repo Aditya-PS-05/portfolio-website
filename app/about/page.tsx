@@ -28,7 +28,7 @@ const AboutPage = () => {
           </p>
 
           <p className="mt-10">
-            I'm currently pursuing a Bachelor's in Mechanical Engineering at NIT
+            I&apos;m currently pursuing a Bachelor&apos;s in Mechanical Engineering at NIT
             Trichy, expected to graduate in May 2026. Alongside my academic
             journey, I have actively explored software engineering and web
             development, contributing to open-source and real-world projects.
@@ -57,10 +57,10 @@ const AboutPage = () => {
               Technical Skills
             </h2>
             <p className="mt-4">
-              I'm proficient in programming languages like C++, Python,
+              I&apos;m proficient in programming languages like C++, Python,
               JavaScript, and TypeScript. My expertise extends to modern web
               technologies like Node.js, React.js, Docker, and Next.js,
-              alongside experience with databases like MySQL and PostgreSQL. I'm
+              alongside experience with databases like MySQL and PostgreSQL. I&apos;m
               also well-versed in cloud services like AWS and tools such as Git
               and Linux.
             </p>
