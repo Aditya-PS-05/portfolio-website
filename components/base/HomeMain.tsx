@@ -9,7 +9,7 @@ const HomeMain = () => {
         {/* Text Content */}
         <div>
           <h1 className="text-4xl font-extrabold leading-relaxed mb-4">
-            Hi, I'm <span className="text-white">Aditya</span>, a Full Stack Web Developer and an
+            Hi, I&apos;m <span className="text-white">Aditya</span>, a Full Stack Web Developer and an
             <br />
             <span className="bg-gradient-to-r from-blue-500 to-pink-500 bg-clip-text text-transparent">
               open-source contributor
@@ -34,7 +34,7 @@ const HomeMain = () => {
         
         {/* Contact Info */}
         <div className="p-4 bg-[#171717] rounded-lg shadow-md">
-          <h2 className="text-xl font-bold">Let's start working together!</h2>
+          <h2 className="text-xl font-bold">Let&apos;s start working together!</h2>
           <p className="text-gray-400 mt-10">Contact Details:</p>
           <p>adipras1407@example.com</p>
           <div className="mt-10">
@@ -49,7 +49,7 @@ const HomeMain = () => {
         {/* About Me */}
         <div className="p-4 bg-[#171717] rounded-lg shadow-md">
           <h2 className="text-2xl font-bold mb-4">About me</h2>
-          <p className="font-light"> I'm a passionate developer based in Uttar Pradesh, India, with a deep enthusiasm for learning and pushing the boundaries of technology. I'm always driven by curiosity and a desire to improve. I thrive in dynamic environments that challenge me to expand my skill set and think creatively. I'm actively seeking opportunities to collaborate, grow, and contribute meaningfully to impactful projects that make a difference. </p>
+          <p className="font-light"> I&apos;m a passionate developer based in Uttar Pradesh, India, with a deep enthusiasm for learning and pushing the boundaries of technology. I&apos;m always driven by curiosity and a desire to improve. I thrive in dynamic environments that challenge me to expand my skill set and think creatively. I&apos;m actively seeking opportunities to collaborate, grow, and contribute meaningfully to impactful projects that make a difference. </p>
         </div>
         {/* Time Zone */}
         <div className="p-4 bg-[#171717] rounded-lg shadow-md flex flex-col justify-center w-[80%]">
